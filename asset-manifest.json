@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/artmikula/countdown/static/css/main.073c9b0a.css",
+    "main.js": "/artmikula/countdown/static/js/main.d5f1ec95.js",
+    "static/js/787.482db2ac.chunk.js": "/artmikula/countdown/static/js/787.482db2ac.chunk.js",
+    "static/media/Max.png": "/artmikula/countdown/static/media/Max.0b4b4855cfb58e3170cf.png",
+    "index.html": "/artmikula/countdown/index.html",
+    "main.073c9b0a.css.map": "/artmikula/countdown/static/css/main.073c9b0a.css.map",
+    "main.d5f1ec95.js.map": "/artmikula/countdown/static/js/main.d5f1ec95.js.map",
+    "787.482db2ac.chunk.js.map": "/artmikula/countdown/static/js/787.482db2ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d5f1ec95.js"
+  ]
+}
